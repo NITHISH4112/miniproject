@@ -12,7 +12,7 @@ sum=sum+(r*r*r);
 n=n/10;
 }
 if(temp==sum)
-printf("armstrong  number ");
+printf("armstrong  number vhcvdjc ");
 else
 printf("not armstrong number");
 return 0;
